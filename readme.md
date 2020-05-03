@@ -1,5 +1,5 @@
 ## Automating AWS with Boto3 
-This repository contains some Python codes for manipulating AWS resources with Boto3 API. Here, the necessary keys required for accessing the AWS resources are supplied through environment variables in the run configurations. 
+This repository contains some Python codes for manipulating AWS resources with Boto3 library. Here, the necessary keys required for accessing the AWS resources are supplied through environment variables in the run configurations. 
   
 ### The core concepts of Boto3:
 1. **Resource:** It is a higher level object to connect to AWS services. As it is higher level, some operations might not be available with it.
